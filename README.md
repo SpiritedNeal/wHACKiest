@@ -383,20 +383,6 @@ Potential extensions include:
 
 ---
 
-## 👥 Team & Contributors
-
-Built with the goal of making multi-project development more seamless.
-
-**Team:** [Your Team Name]
-
-**Contributors:**
-- [Member 1]
-- [Member 2]
-- [Member 3]
-- [Member 4]
-
----
-
 ## 📌 Vision
 
 We want to make project switching as simple as changing a conversation.
