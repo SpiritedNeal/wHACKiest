@@ -2,19 +2,6 @@
 ### AI-Powered Developer Context Switcher & Environment Restorer
 
 **Don't just switch projects. Pick up exactly where you left off.**
-
-<p align="center">
-  <img src="assets/switchboard-banner.png" alt="SWITCHBOARD Banner" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Hackathon%20Project-blueviolet" />
-  <img src="https://img.shields.io/badge/AI-Powered-blue" />
-  <img src="https://img.shields.io/badge/Python-FastAPI-green" />
-  <img src="https://img.shields.io/badge/Frontend-React-blue" />
-  <img src="https://img.shields.io/badge/Database-SQLite-lightgrey" />
-</p>
-
 ---
 
 ## 💡 The Problem
