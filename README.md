@@ -57,22 +57,6 @@ It can manage:
 
 ---
 
-## 🖥️ Application Preview
-
-<!-- Replace these placeholders with actual application screenshots -->
-
-| Project Dashboard | AI Project Switching |
-|:---:|:---:|
-| ![Dashboard](assets/dashboard.png) | ![AI Chat](assets/ai-chat.png) |
-| Project management and overview | Natural-language project commands |
-
-| Session Memory | Environment Restoration |
-|:---:|:---:|
-| ![Session Memory](assets/session-memory.png) | ![Restoration](assets/restoration.png) |
-| Previous tasks, notes and TODOs | Restored development environment |
-
----
-
 ## ⚙️ How It Works
 
 SWITCHBOARD follows five major stages to provide an intelligent project-switching experience.
