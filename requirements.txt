@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+mcp
+psutil
+pydantic
+python-dotenv
+google-genai
+httpx
